@@ -8,7 +8,18 @@ body{
     line-height: 50%;
 }
 
+.NULL{
+    text-align: left;
+    font-size: xx-small;
+
+}
+
 .DATA{
     text-align: justify;
+    font-size: xx-small;
+}
+
+.END{
+    text-align: right;
     font-size: xx-small;
 }
