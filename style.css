@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 1%;
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+    /* letter-spacing: 1.5cap; */
+    line-height: 50%;
+}
+
+.NULL{
+    text-align: left;
+    font-size: xx-small;
+
+}
+
+.MANIFESTO{
+    text-align: justify;
+    font-size: xx-small;
+}
+
+.END{
+    text-align: right;
+    font-size: xx-small;
+}
