@@ -1,62 +1,25 @@
 body{
-    background-color: black;
-    color: white;
     font-family: 'Courier New', Courier, monospace;
-    padding-top: 50px;
-    width:100vw;
-    height:100vh;
-    overflow-x: hidden;
-}
-
-abbr {
-    border-bottom: none !important;
-    cursor: inherit !important;
-    text-decoration: none !important;
-}
-
-.container{
-    max-width: 500px;
-    margin: auto;
-    display:flex-direction;
-    justify-content: center;
-    align-items: center;
-    vertical-align: middle;
-}
-
-.introduction{
-
-    position:relative;
-    font-size:x-small;
-}
-
-.binary{
-    font-size:x-small;
-    line-height: 10px;
-    cursor:help;
-}
-
-.symbol{
-    font-size:x-small;
-    line-height: 10px;
-    cursor:help;
-}
-
-.art{
-    font-size: xx-small;
+    padding-top: 1%;
+    padding-left: 40%;
+    padding-right: 40%;
     text-align: center;
-    position: relative;
-    padding-left: 10px;
+    /* letter-spacing: 1.5cap; */
+    line-height: 50%;
 }
 
-.image{
-    display: block;
-    margin-left: 40px;
-    margin-right: auto;
-    /* width: 8em */
-    
+.NULL{
+    text-align: left;
+    font-size: xx-small;
+
 }
 
-html, body {
-    max-width: 100%; /* Limit the maximum width of the entire webpage */
-    overflow-x: hidden; /* Hide horizontal overflow to prevent scrolling */
+.DATA{
+    text-align: justify;
+    font-size: xx-small;
+}
+
+.END{
+    text-align: right;
+    font-size: xx-small;
 }
